@@ -3,10 +3,11 @@ public class Example15 {
         int x = 1;
         while (x < 4) {
             System.out.println("x= " + x);
-            if (x == 3){
+            if (x == 3) {
                 break;
             }
             x++;
         }
     }
 }
+

@@ -1,3 +1,5 @@
+package Chapter_2;
+
 public class Example09 {
     public static void main(String[] args) {
         int grade = 75;

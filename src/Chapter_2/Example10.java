@@ -1,3 +1,5 @@
+package Chapter_2;
+
 public class Example10 {
     public static void main(String[] args) {
         int month = 5;
